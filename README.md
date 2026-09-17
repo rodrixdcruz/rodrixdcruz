@@ -1,0 +1,19 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:1e3a8a&height=170&section=header&text=Rodrix&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=disaster-response%20tech%20%C2%B7%20full-stack%20dev&descSize=16&descAlignY=72" width="100%" />
+
+<img src="https://github.com/rodrixdcruz.png" align="right" width="110" alt="Rodrix's avatar" />
+
+hey 👋 I'm Rodrix — I like building things that actually help people, especially when the weather doesn't cooperate.
+
+### 🌦️ WeatherGPT
+
+**[live demo](https://weathergpt-web.onrender.com)** · **[repo](https://github.com/rodrixdcruz/Weather-GPT)**
+
+A disaster decision-support app: live weather, an explainable risk engine, and AI chat that only answers from real data. Runs on entirely free, key-less services — no API bills, no quiet failures.
+
+- 🗺️ finds nearby shelters and draws the actual walking/driving route in-app
+- 🧠 local AI model first, free cloud tiers behind it — replies always cite where they came from
+- 🌐 speaks English, हिन्दी, and मराठी
+
+*FastAPI · React · Leaflet · Three.js · Postgres · 385 tests · MIT*
+
+<!-- to publish: create a public repo named exactly "rodrixdcruz", put this file in it as README.md -->
