@@ -19,7 +19,7 @@ A disaster decision-support app: live weather, an explainable risk engine, and A
 ### 🌱 other projects
 
 - **[KisanProfit](https://github.com/rodrixdcruz/kisanprofit)** — farmer expense & profit tracker: real profit per crop, AI insights, voice input for 10-second expense entry, weather advisories and PDF/CSV reports. English / हिन्दी / मराठी.
-- **[CropSmart](https://github.com/rodrixdcruz/cropsmart)** — AI crop advisory for Indian farmers: live-weather crop recommendation and daily mandi price trends with sell timing. Zero-install web app in English, हिन्दी, मराठी and தமிழ்.
+- **[CropSmart](https://github.com/rodrixdcruz/cropsmart)** — AI crop advisory for Indian farmers: live-weather crop recommendation and daily mandi price trends with sell timing. **[Try it live](https://rodrixdcruz.github.io/cropsmart/)** — zero-install web app in English, हिन्दी, मराठी and தமிழ்.
 - **[desktop-tutorial](https://github.com/rodrixdcruz/desktop-tutorial)** — where my GitHub journey started. Everyone keeps their first repo. 🙂
 
 ### 📊 GitHub stats
