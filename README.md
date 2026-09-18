@@ -14,6 +14,26 @@ A disaster decision-support app: live weather, an explainable risk engine, and A
 - 🧠 local AI model first, free cloud tiers behind it — replies always cite where they came from
 - 🌐 speaks English, हिन्दी, and मराठी
 
-*FastAPI · React · Leaflet · Three.js · Postgres · 385 tests · MIT*
+*FastAPI · React · Leaflet · Three.js · Postgres · 405 tests · MIT*
+
+### 📊 GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary/tokyonight/profile-details.svg" />
+  <img src="profile-summary/tokyonight/profile-details.svg" width="49%" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-summary/tokyonight/repos-per-language.svg" />
+  <img src="profile-summary/tokyonight/repos-per-language.svg" width="49%" alt="Top languages" />
+</picture>
+
+### 🐍 contributions forecast
+
+rain-blue cells (light = drizzle, deep navy = downpour) and a lightning-yellow snake:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrixdcruz/rodrixdcruz/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/rodrixdcruz/rodrixdcruz/output/github-snake.svg" width="100%" alt="contribution snake" />
+</picture>
 
 <!-- to publish: create a public repo named exactly "rodrixdcruz", put this file in it as README.md -->
