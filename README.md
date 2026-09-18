@@ -4,14 +4,21 @@
 
 hey 👋 I'm Rodrix — I like building things that actually help people, especially when the weather doesn't cooperate.
 
+### ▶ try them live
+
+[![WeatherGPT](https://img.shields.io/badge/▶_WeatherGPT-weathergpt--web.onrender.com-2ea44f)](https://weathergpt-web.onrender.com)
+[![KisanProfit](https://img.shields.io/badge/▶_KisanProfit-kisanprofit--web.onrender.com-2ea44f)](https://kisanprofit-web.onrender.com)
+[![CropSmart](https://img.shields.io/badge/▶_CropSmart-github.io%2Fcropsmart-2ea44f)](https://rodrixdcruz.github.io/cropsmart/)
+
 ### 🌦️ WeatherGPT
 
-**[live demo](https://weathergpt-web.onrender.com)** · **[repo](https://github.com/rodrixdcruz/Weather-GPT)**
+**[live demo](https://weathergpt-web.onrender.com)** · **[repo](https://github.com/rodrixdcruz/Weather-GPT)** · **[v1.0.0](https://github.com/rodrixdcruz/Weather-GPT/releases)**
 
 A disaster decision-support app: live weather, an explainable risk engine, and AI chat that only answers from real data. Runs on entirely free, key-less services — no API bills, no quiet failures.
 
 - 🗺️ finds nearby shelters and draws the actual walking/driving route in-app — routed through a cached backend OSRM proxy, so public traffic never hammers the free map API
 - 🧠 local AI model first, free cloud tiers behind it — replies always cite where they came from
+- 🎪 judge console that simulates floods, heatwaves and smog on live data, any season
 - 🌐 speaks English, हिन्दी, and मराठी
 
 *FastAPI · React · Leaflet · Three.js · Postgres · 405 tests · MIT*
@@ -19,7 +26,9 @@ A disaster decision-support app: live weather, an explainable risk engine, and A
 ### 🌱 other projects
 
 - **[KisanProfit](https://github.com/rodrixdcruz/kisanprofit)** — farmer expense & profit tracker: real profit per crop, AI insights, voice entry, PDF/CSV reports. **[Try it live](https://kisanprofit-web.onrender.com)** — demo login 9999999999 / demo1234. English / हिन्दी / मराठी.
+  *FastAPI · React · Postgres · 83 tests · v1.0.0*
 - **[CropSmart](https://github.com/rodrixdcruz/cropsmart)** — AI crop advisory for Indian farmers: live-weather crop recommendation and daily mandi price trends with sell timing. **[Try it live](https://rodrixdcruz.github.io/cropsmart/)** — zero-install web app in English, हिन्दी, मराठी and தமிழ்.
+  *Vanilla JS · GitHub Pages · v1.0.0*
 - **[desktop-tutorial](https://github.com/rodrixdcruz/desktop-tutorial)** — where my GitHub journey started. Everyone keeps their first repo. 🙂
 
 ### 📊 GitHub stats
