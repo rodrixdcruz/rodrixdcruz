@@ -1,0 +1,49 @@
+name: generate profile art
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 3 * * *" # daily 03:00 UTC — keeps the snake fed
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate weather snake (rain-blue cells, lightning snake)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=%23f5b301&color_dots=%23e8f2fc,%23a8d4f5,%236db5ec,%233b96e3,%231e5fa8
+            dist/github-snake-dark.svg?color_snake=%23ffd60a&color_dots=%2316233a,%23234a75,%232f6cb0,%233f8fe0,%236cb8ff
+      - name: publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: generate stats cards (tokyonight)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
+          theme: tokyonight
+      - name: ensure cards are committed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary
+          git diff --cached --quiet || git commit -m "refresh profile cards"
+          git push
