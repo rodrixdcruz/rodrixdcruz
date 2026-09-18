@@ -32,6 +32,7 @@ jobs:
   cards:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: generate stats cards (tokyonight, auto-pushed to main)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
