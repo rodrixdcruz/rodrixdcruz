@@ -10,7 +10,7 @@ hey 👋 I'm Rodrix — I like building things that actually help people, especi
 
 A disaster decision-support app: live weather, an explainable risk engine, and AI chat that only answers from real data. Runs on entirely free, key-less services — no API bills, no quiet failures.
 
-- 🗺️ finds nearby shelters and draws the actual walking/driving route in-app
+- 🗺️ finds nearby shelters and draws the actual walking/driving route in-app — routed through a cached backend OSRM proxy, so public traffic never hammers the free map API
 - 🧠 local AI model first, free cloud tiers behind it — replies always cite where they came from
 - 🌐 speaks English, हिन्दी, and मराठी
 
