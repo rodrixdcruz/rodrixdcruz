@@ -9,6 +9,7 @@ hey 👋 I'm Rodrix — I like building things that actually help people, especi
 [![WeatherGPT](https://img.shields.io/badge/▶_WeatherGPT-weathergpt--web.onrender.com-2ea44f)](https://weathergpt-web.onrender.com)
 [![KisanProfit](https://img.shields.io/badge/▶_KisanProfit-kisanprofit--web.onrender.com-2ea44f)](https://kisanprofit-web.onrender.com)
 [![CropSmart](https://img.shields.io/badge/▶_CropSmart-github.io%2Fcropsmart-2ea44f)](https://rodrixdcruz.github.io/cropsmart/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rodrixdcruz.github.io-8b5cf6)](https://rodrixdcruz.github.io)
 
 ### 🌦️ WeatherGPT
 
@@ -44,5 +45,7 @@ rain-blue cells (light = drizzle, deep navy = downpour) and a lightning-yellow s
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrixdcruz/rodrixdcruz/output/github-snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/rodrixdcruz/rodrixdcruz/output/github-snake.svg" width="100%" alt="contribution snake" />
 </picture>
+
+Everything above, on one page → **[rodrixdcruz.github.io](https://rodrixdcruz.github.io)**
 
 <!-- to publish: create a public repo named exactly "rodrixdcruz", put this file in it as README.md -->
