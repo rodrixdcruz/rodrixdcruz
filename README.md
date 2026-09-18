@@ -18,14 +18,8 @@ A disaster decision-support app: live weather, an explainable risk engine, and A
 
 ### 📊 GitHub stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary/tokyonight/profile-details.svg" />
-  <img src="profile-summary/tokyonight/profile-details.svg" width="49%" alt="GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-summary/tokyonight/repos-per-language.svg" />
-  <img src="profile-summary/tokyonight/repos-per-language.svg" width="49%" alt="Top languages" />
-</picture>
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="GitHub stats" />
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top languages" />
 
 ### 🐍 contributions forecast
 
