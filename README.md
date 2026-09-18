@@ -16,6 +16,13 @@ A disaster decision-support app: live weather, an explainable risk engine, and A
 
 *FastAPI · React · Leaflet · Three.js · Postgres · 405 tests · MIT*
 
+### 🌱 other projects
+
+- **[KisanProfit](https://github.com/rodrixdcruz/kisanprofit)** — farmer expense & profit tracker: real profit per crop, AI insights, voice input for 10-second expense entry, weather advisories and PDF/CSV reports. English / हिन्दी / मराठी.
+- **[CropSmart](https://github.com/rodrixdcruz/cropsmart)** — full-stack agri-tech platform with AI-driven crop recommendations and crop price predictions from weather, soil, and market data.
+- **[kdk-hack](https://github.com/rodrixdcruz/kdk-hack)** — hackathon experiment: a FastAPI backend service, built fast and shipped as a learning project.
+- **[desktop-tutorial](https://github.com/rodrixdcruz/desktop-tutorial)** — where my GitHub journey started. Everyone keeps their first repo. 🙂
+
 ### 📊 GitHub stats
 
 <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="49%" alt="GitHub stats" />
