@@ -13,7 +13,7 @@ hey 👋 I'm Rodrix — I like building things that actually help people, especi
 
 ### 🌦️ MausamBagha AI
 
-**[live demo](https://weathergpt-web.onrender.com)** · **[repo](https://github.com/rodrixdcruz/Weather-GPT)** · **[v1.0.0](https://github.com/rodrixdcruz/Weather-GPT/releases)**
+**[live demo](https://weathergpt-web.onrender.com)** · **[repo](https://github.com/rodrixdcruz/mausambagha-ai)** · **[v1.0.0](https://github.com/rodrixdcruz/mausambagha-ai/releases)**
 
 A disaster decision-support app: live weather, an explainable risk engine, and AI chat that only answers from real data. Runs on entirely free, key-less services — no API bills, no quiet failures.
 
