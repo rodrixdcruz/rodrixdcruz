@@ -6,12 +6,12 @@ hey 👋 I'm Rodrix — I like building things that actually help people, especi
 
 ### ▶ try them live
 
-[![WeatherGPT](https://img.shields.io/badge/▶_WeatherGPT-weathergpt--web.onrender.com-2ea44f)](https://weathergpt-web.onrender.com)
+[![MausamBagha AI](https://img.shields.io/badge/▶_MausamBagha_AI-weathergpt--web.onrender.com-2ea44f)](https://weathergpt-web.onrender.com)
 [![KisanProfit](https://img.shields.io/badge/▶_KisanProfit-kisanprofit--web.onrender.com-2ea44f)](https://kisanprofit-web.onrender.com)
 [![CropSmart](https://img.shields.io/badge/▶_CropSmart-github.io%2Fcropsmart-2ea44f)](https://rodrixdcruz.github.io/cropsmart/)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rodrixdcruz.github.io-8b5cf6)](https://rodrixdcruz.github.io)
 
-### 🌦️ WeatherGPT
+### 🌦️ MausamBagha AI
 
 **[live demo](https://weathergpt-web.onrender.com)** · **[repo](https://github.com/rodrixdcruz/Weather-GPT)** · **[v1.0.0](https://github.com/rodrixdcruz/Weather-GPT/releases)**
 
