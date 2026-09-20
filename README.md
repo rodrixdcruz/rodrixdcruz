@@ -6,7 +6,7 @@ hey 👋 I'm Rodrix — I like building things that actually help people, especi
 
 ### ▶ try them live
 
-[![MausamBagha AI](https://img.shields.io/badge/▶_MausamBagha_AI-weathergpt--web.onrender.com-2ea44f)](https://weathergpt-web.onrender.com)
+[![MausamBagha AI](https://img.shields.io/badge/▶_MausamBagha_AI-weathergpt--web.onrender.com-2ea44f)](https://mausambagha-web.onrender.com)
 [![KisanProfit](https://img.shields.io/badge/▶_KisanProfit-kisanprofit--web.onrender.com-2ea44f)](https://kisanprofit-web.onrender.com)
 [![CropSmart](https://img.shields.io/badge/▶_CropSmart-github.io%2Fcropsmart-2ea44f)](https://rodrixdcruz.github.io/cropsmart/)
 [![TravelGuard AI](https://img.shields.io/badge/▶_TravelGuard_AI-travelguard--web.onrender.com-2ea44f)](https://travelguard-web.onrender.com)
@@ -14,7 +14,7 @@ hey 👋 I'm Rodrix — I like building things that actually help people, especi
 
 ### 🌦️ MausamBagha AI
 
-**[live demo](https://weathergpt-web.onrender.com)** · **[repo](https://github.com/rodrixdcruz/mausambagha-ai)** · **[v1.0.0](https://github.com/rodrixdcruz/mausambagha-ai/releases)**
+**[live demo](https://mausambagha-web.onrender.com)** · **[repo](https://github.com/rodrixdcruz/mausambagha-ai)** · **[v1.0.0](https://github.com/rodrixdcruz/mausambagha-ai/releases)**
 
 A disaster decision-support app: live weather, an explainable risk engine, and AI chat that only answers from real data. Runs on entirely free, key-less services — no API bills, no quiet failures.
 
