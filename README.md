@@ -9,6 +9,7 @@ hey 👋 I'm Rodrix — I like building things that actually help people, especi
 [![MausamBagha AI](https://img.shields.io/badge/▶_MausamBagha_AI-weathergpt--web.onrender.com-2ea44f)](https://weathergpt-web.onrender.com)
 [![KisanProfit](https://img.shields.io/badge/▶_KisanProfit-kisanprofit--web.onrender.com-2ea44f)](https://kisanprofit-web.onrender.com)
 [![CropSmart](https://img.shields.io/badge/▶_CropSmart-github.io%2Fcropsmart-2ea44f)](https://rodrixdcruz.github.io/cropsmart/)
+[![TravelGuard AI](https://img.shields.io/badge/▶_TravelGuard_AI-travelguard--web.onrender.com-2ea44f)](https://travelguard-web.onrender.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rodrixdcruz.github.io-8b5cf6)](https://rodrixdcruz.github.io)
 
 ### 🌦️ MausamBagha AI
