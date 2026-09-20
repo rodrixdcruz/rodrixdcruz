@@ -31,6 +31,8 @@ A disaster decision-support app: live weather, an explainable risk engine, and A
   *FastAPI · React · Postgres · 83 tests · v1.0.0*
 - **[CropSmart](https://github.com/rodrixdcruz/cropsmart)** — AI crop advisory for Indian farmers: live-weather crop recommendation and daily mandi price trends with sell timing. **[Try it live](https://rodrixdcruz.github.io/cropsmart/)** — zero-install web app in English, हिन्दी, मराठी and தமிழ்.
   *Vanilla JS · GitHub Pages · v1.0.0*
+- **[TravelGuard AI](https://github.com/rodrixdcruz/travelguard-ai)** — AI road-trip safety copilot: live journey risk analysis with route weather, on-road hazards, and honest LIVE / ESTIMATED / DEMO data labels on every result. **[Try it live](https://travelguard-web.onrender.com)**.
+  *FastAPI · React · Postgres · 53 tests · ML risk layer*
 - **[desktop-tutorial](https://github.com/rodrixdcruz/desktop-tutorial)** — where my GitHub journey started. Everyone keeps their first repo. 🙂
 
 ### 📊 GitHub stats
