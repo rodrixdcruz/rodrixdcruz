@@ -25,6 +25,19 @@ A disaster decision-support app: live weather, an explainable risk engine, and A
 
 *FastAPI · React · Leaflet · Three.js · Postgres · 405 tests · MIT*
 
+### 🚑 Nagpur HealthGrid
+
+**[repo](https://github.com/rodrixdcruz/BUILDX_021)** · ![CI](https://github.com/rodrixdcruz/BUILDX_021/actions/workflows/ci.yml/badge.svg)
+
+emergency healthcare coordination for Nagpur — one case ID, one coordinated response. a patient reports once; the platform orchestrates ambulance dispatch, hospital + bed matching, blood-bank search and golden-hour tracking around that single case.
+
+- 🚨 surge mode — mass-casualty coordinator dashboard with transparent CRITICAL / URGENT / NON_URGENT buckets and explainable resource picks
+- 📴 network blackout mode — offline app shell + outbox queue that syncs when the city comes back online; SMS fallback is drafted, never fake-sent
+- ⏱️ golden hour — coordination countdown + timestamped case timeline (a demo aid, clearly labelled, not a medical claim)
+- 🤖 local AI assistant — answers only from app data, never diagnoses, the human coordinator stays in control
+
+*React · TypeScript · Node/Express · Neon Postgres · 134 tests · PWA*
+
 ### 🌱 other projects
 
 - **[KisanProfit](https://github.com/rodrixdcruz/kisanprofit)** — farmer expense & profit tracker: real profit per crop, AI insights, voice entry, PDF/CSV reports. **[Try it live](https://kisanprofit-web.onrender.com)** — demo login 9999999999 / demo1234. English / हिन्दी / मराठी.
