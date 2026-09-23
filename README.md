@@ -27,7 +27,7 @@ A disaster decision-support app: live weather, an explainable risk engine, and A
 
 ### 🚑 Nagpur HealthGrid
 
-**[repo](https://github.com/rodrixdcruz/BUILDX_021)** · ![CI](https://github.com/rodrixdcruz/BUILDX_021/actions/workflows/ci.yml/badge.svg)
+**[repo](https://github.com/rodrixdcruz/naghealthgrid)** · ![CI](https://github.com/rodrixdcruz/naghealthgrid/actions/workflows/ci.yml/badge.svg)
 
 emergency healthcare coordination for Nagpur — one case ID, one coordinated response. a patient reports once; the platform orchestrates ambulance dispatch, hospital + bed matching, blood-bank search and golden-hour tracking around that single case.
 
