@@ -27,7 +27,7 @@ A disaster decision-support app: live weather, an explainable risk engine, and A
 
 ### 🚑 Nagpur HealthGrid
 
-**[repo](https://github.com/rodrixdcruz/naghealthgrid)** · ![CI](https://github.com/rodrixdcruz/naghealthgrid/actions/workflows/ci.yml/badge.svg)
+**[repo](https://github.com/rodrixdcruz/naghealthgrid)** · **[▶ live demo](https://healthgrid-frontend.onrender.com)** · ![CI](https://github.com/rodrixdcruz/naghealthgrid/actions/workflows/ci.yml/badge.svg)
 
 emergency healthcare coordination for Nagpur — one case ID, one coordinated response. a patient reports once; the platform orchestrates ambulance dispatch, hospital + bed matching, blood-bank search and golden-hour tracking around that single case.
 
@@ -36,7 +36,7 @@ emergency healthcare coordination for Nagpur — one case ID, one coordinated re
 - ⏱️ golden hour — coordination countdown + timestamped case timeline (a demo aid, clearly labelled, not a medical claim)
 - 🤖 local AI assistant — answers only from app data, never diagnoses, the human coordinator stays in control
 
-*React · TypeScript · Node/Express · Neon Postgres · 134 tests · PWA*
+*React · TypeScript · Node/Express · Neon Postgres · 134 tests · PWA · deployed on Render*
 
 ### 🌱 other projects
 
